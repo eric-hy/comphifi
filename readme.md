@@ -59,7 +59,7 @@ genome_assembly_pipeline.sh --hifi <HiFi_reads> --hic1 <Hi-C_reads1> --hic2 <Hi-
 - `--genomeSize`: Estimated genome size
 
 ### Optional parameters:
-- `--prefix`: Prefix for output files (default: 'result')
+- `--prefix`: Prefix for output files (default: 'species')
 - `--cpu`: Number of CPUs to use (default: all available CPUs)
 
 
