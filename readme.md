@@ -39,7 +39,7 @@ cd compHiFi
 export PATH=$(pwd):$PATH
 ```
 
-Ensure all dependencies are installed. Follow the installation instructions for each tool on their respective websites. Alternatively, we **strongly recommend** using our Docker image, where all dependencies and the environment are pre-configured, allowing the entire workflow to run directly.
+Ensure all dependencies are installed. Follow the installation instructions for each tool on their respective websites. Alternatively, we **strongly recommend** using our [Docker image](https://hub.docker.com/r/yhan0727/comphifi), where all dependencies and the environment are pre-configured, allowing the entire workflow to run directly.
 
 ```shell
 docker pull yhan0727/comphifi:v0.2
